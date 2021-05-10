@@ -17,7 +17,7 @@ RevisionNamingSchemeGUID=
 [OutputGroup1]
 Name=28Pins JobFile.OutJob
 Description=
-TargetOutputMedium=Folder Structure
+TargetOutputMedium=Print Job
 VariantName=[No Variations]
 VariantScope=1
 CurrentConfigurationName=
@@ -25,7 +25,7 @@ TargetPrinter=Microsoft Print to PDF
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputMedium1=Print Job
 OutputMedium1_Type=Printer
-OutputMedium1_Printer=
+OutputMedium1_Printer=Microsoft Print to PDF
 OutputMedium1_PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputMedium2=PDF
 OutputMedium2_Type=Publish
@@ -38,7 +38,7 @@ OutputName1=28Pins BOM Purcharsing
 OutputCategory1=Report
 OutputDocumentPath1=
 OutputVariantName1=
-OutputEnabled1=1
+OutputEnabled1=0
 OutputEnabled1_OutputMedium1=0
 OutputEnabled1_OutputMedium2=0
 OutputEnabled1_OutputMedium3=1
@@ -61,13 +61,13 @@ Configuration1_Item6=Description=120|LibRef=120|Quantity=120|Category=100|Case/P
 [PublishSettings]
 OutputFilePath2=
 ReleaseManaged2=1
-OutputBasePath2=
+OutputBasePath2=Project Outputs for 28Pins_Project_V1[1
 OutputPathMedia2=
 OutputPathMediaValue2=
 OutputPathOutputer2=[Output Type]
 OutputPathOutputerPrefix2=
 OutputPathOutputerValue2=
-OutputFileName2=
+OutputFileName2=28Pins JobFile.PDF
 OutputFileNameMulti2=
 UseOutputNameForMulti2=1
 OutputFileNameSpecial2=
@@ -101,7 +101,7 @@ OutputFileNameSpecial3=
 OpenOutput3=1
 OutputFilePath4=
 ReleaseManaged4=1
-OutputBasePath4=
+OutputBasePath4=Project Outputs for 28Pins_Project_V1[1
 OutputPathMedia4=
 OutputPathMediaValue4=
 OutputPathOutputer4=[Output Type]
