@@ -21,11 +21,11 @@ TargetOutputMedium=Print Job
 VariantName=[No Variations]
 VariantScope=1
 CurrentConfigurationName=
-TargetPrinter=Microsoft Print to PDF
+TargetPrinter=PDFCreator
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputMedium1=Print Job
 OutputMedium1_Type=Printer
-OutputMedium1_Printer=Microsoft Print to PDF
+OutputMedium1_Printer=PDFCreator
 OutputMedium1_PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputMedium2=PDF
 OutputMedium2_Type=Publish
@@ -57,6 +57,37 @@ Configuration1_Name5=VisibleOrder
 Configuration1_Item5=Description=120|LibRef=120|Quantity=120|Category=100|Case/Package=100|Supplier 1=100|Supplier Currency 1=100|Supplier Order Qty 1=100|Supplier Packaging 1=100|Supplier Part Number 1=100|Supplier Stock 1=100|Supplier Subtotal 1=100|Supplier Subtotal per Board 1=100|Supplier Unit Price 1=100|Manufacturer 1=100|Manufacturer Part Number 1=100
 Configuration1_Name6=VisibleOrder_Flat
 Configuration1_Item6=Description=120|LibRef=120|Quantity=120|Category=100|Case/Package=100|Supplier 1=100|Supplier Currency 1=100|Supplier Order Qty 1=100|Supplier Packaging 1=100|Supplier Part Number 1=100|Supplier Stock 1=100|Supplier Subtotal 1=100|Supplier Subtotal per Board 1=100|Supplier Unit Price 1=100|Manufacturer 1=100|Manufacturer Part Number 1=100
+OutputType2=Assembly
+OutputName2=28Pins Library check
+OutputCategory2=Assembly
+OutputDocumentPath2=
+OutputVariantName2=
+OutputEnabled2=1
+OutputEnabled2_OutputMedium1=1
+OutputEnabled2_OutputMedium2=0
+OutputEnabled2_OutputMedium3=0
+OutputEnabled2_OutputMedium4=0
+OutputDefault2=0
+PageOptions2=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=2|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=0|PaperKind=A4|PaperIndex=9
+Configuration2_Name1=OutputConfigurationParameter1
+Configuration2_Item1=DesignatorDisplayMode=Physical|PrintArea=DesignExtent|PrintAreaLowerLeftCornerX=0|PrintAreaLowerLeftCornerY=0|PrintAreaUpperRightCornerX=0|PrintAreaUpperRightCornerY=0|Record=PcbPrintView|DocumentPath=C:\Users\Victor Holanda\Documents\28Pins_Project_V1]1\28Pins_Project_V1[1_PCB.PcbDoc
+Configuration2_Name2=OutputConfigurationParameter2
+Configuration2_Item2=IncludeBoardCutouts=False|IncludeBottomLayerComponents=True|IncludeMultiLayerComponents=True|IncludeTopLayerComponents=True|IncludeViewports=True|Index=0|Mirror=False|Name=Top LayerAssembly Drawing|PadNumberFontSize=14|Record=PcbPrintOut|ShowHoles=True|ShowPadNets=False|ShowPadNumbers=False|SubstituteFonts=False|DocumentPath=C:\Users\Victor Holanda\Documents\28Pins_Project_V1]1\28Pins_Project_V1[1_PCB.PcbDoc
+Configuration2_Name3=OutputConfigurationParameter3
+Configuration2_Item3=CArc=Hidden|CFill=Hidden|Comment=Hidden|Coordinate=Hidden|CPad=Full|CRegion=Hidden|CText=Hidden|CTrack=Hidden|CVia=Hidden|Designator=Hidden|Dimension=Hidden|DLayer1=TopLayer|DLayer2=BottomLayer|DrillType=Regular|FArc=Hidden|FFill=Hidden|FPad=Full|FRegion=Hidden|FText=Hidden|FTrack=Hidden|FVia=Hidden|Layer=TopLayer|Polygon=Hidden|PrintOutIndex=0|Record=PcbPrintLayer|DocumentPath=C:\Users\Victor Holanda\Documents\28Pins_Project_V1]1\28Pins_Project_V1[1_PCB.PcbDoc
+Configuration2_Name4=OutputConfigurationParameter4
+Configuration2_Item4=CArc=Full|CFill=Full|Comment=Full|Coordinate=Full|CPad=Full|CRegion=Full|CText=Full|CTrack=Full|CVia=Full|Designator=Full|Dimension=Full|DLayer1=TopLayer|DLayer2=BottomLayer|DrillType=Regular|FArc=Full|FFill=Full|FPad=Full|FRegion=Full|FText=Full|FTrack=Full|FVia=Full|Layer=TopOverlay|Polygon=Full|PrintOutIndex=0|Record=PcbPrintLayer|DocumentPath=C:\Users\Victor Holanda\Documents\28Pins_Project_V1]1\28Pins_Project_V1[1_PCB.PcbDoc
+Configuration2_Name5=OutputConfigurationParameter5
+Configuration2_Item5=CArc=Full|CFill=Full|Comment=Full|Coordinate=Full|CPad=Full|CRegion=Full|CText=Full|CTrack=Full|CVia=Full|Designator=Full|Dimension=Full|DLayer1=TopLayer|DLayer2=BottomLayer|DrillType=Regular|FArc=Full|FFill=Full|FPad=Full|FRegion=Full|FText=Full|FTrack=Full|FVia=Full|Layer=Mechanical28|Polygon=Full|PrintOutIndex=0|Record=PcbPrintLayer|DocumentPath=C:\Users\Victor Holanda\Documents\28Pins_Project_V1]1\28Pins_Project_V1[1_PCB.PcbDoc
+Configuration2_Name6=OutputConfigurationParameter6
+Configuration2_Item6=IncludeBoardCutouts=False|IncludeBottomLayerComponents=True|IncludeMultiLayerComponents=True|IncludeTopLayerComponents=True|IncludeViewports=True|Index=1|Mirror=True|Name=Bottom LayerAssembly Drawing|PadNumberFontSize=14|Record=PcbPrintOut|ShowHoles=True|ShowPadNets=False|ShowPadNumbers=False|SubstituteFonts=False|DocumentPath=C:\Users\Victor Holanda\Documents\28Pins_Project_V1]1\28Pins_Project_V1[1_PCB.PcbDoc
+Configuration2_Name7=OutputConfigurationParameter7
+Configuration2_Item7=CArc=Hidden|CFill=Hidden|Comment=Hidden|Coordinate=Hidden|CPad=Full|CRegion=Hidden|CText=Hidden|CTrack=Hidden|CVia=Hidden|Designator=Hidden|Dimension=Hidden|DLayer1=TopLayer|DLayer2=BottomLayer|DrillType=Regular|FArc=Hidden|FFill=Hidden|FPad=Full|FRegion=Hidden|FText=Hidden|FTrack=Hidden|FVia=Hidden|Layer=BottomLayer|Polygon=Hidden|PrintOutIndex=1|Record=PcbPrintLayer|DocumentPath=C:\Users\Victor Holanda\Documents\28Pins_Project_V1]1\28Pins_Project_V1[1_PCB.PcbDoc
+Configuration2_Name8=OutputConfigurationParameter8
+Configuration2_Item8=CArc=Full|CFill=Full|Comment=Full|Coordinate=Full|CPad=Full|CRegion=Full|CText=Full|CTrack=Full|CVia=Full|Designator=Full|Dimension=Full|DLayer1=TopLayer|DLayer2=BottomLayer|DrillType=Regular|FArc=Full|FFill=Full|FPad=Full|FRegion=Full|FText=Full|FTrack=Full|FVia=Full|Layer=BottomOverlay|Polygon=Full|PrintOutIndex=1|Record=PcbPrintLayer|DocumentPath=C:\Users\Victor Holanda\Documents\28Pins_Project_V1]1\28Pins_Project_V1[1_PCB.PcbDoc
+Configuration2_Name9=OutputConfigurationParameter9
+Configuration2_Item9=CArc=Full|CFill=Full|Comment=Full|Coordinate=Full|CPad=Full|CRegion=Full|CText=Full|CTrack=Full|CVia=Full|Designator=Full|Dimension=Full|DLayer1=TopLayer|DLayer2=BottomLayer|DrillType=Regular|FArc=Full|FFill=Full|FPad=Full|FRegion=Full|FText=Full|FTrack=Full|FVia=Full|Layer=Mechanical28|Polygon=Full|PrintOutIndex=1|Record=PcbPrintLayer|DocumentPath=C:\Users\Victor Holanda\Documents\28Pins_Project_V1]1\28Pins_Project_V1[1_PCB.PcbDoc
+PcbPrintPreferences2=
 
 [PublishSettings]
 OutputFilePath2=
