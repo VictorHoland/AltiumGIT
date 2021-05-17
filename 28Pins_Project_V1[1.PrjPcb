@@ -95,7 +95,24 @@ GenerateClassCluster=0
 DocumentUniqueId=GIZQJVTX
 
 [Document4]
-DocumentPath=28Pins_Project_V1[1_PCB.PcbDoc
+DocumentPath=28Pins_Project_V1[1_PCB..PcbDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=PILCGWAR
+
+[Document5]
+DocumentPath=ssPcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -111,7 +128,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=AOQUPNMG
 
-[Document5]
+[Document6]
 DocumentPath=28Pins_Project_V1[1.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -128,7 +145,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=TALKRQDF
 
-[Document6]
+[Document7]
 DocumentPath=28Pins_Project_V1[1.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -145,7 +162,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=EGNWEVGB
 
-[Document7]
+[Document8]
 DocumentPath=..\28Pins\!Design Documentation\Templates\Schematic\[04] - REVISION HISTORY.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -162,7 +179,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=QIWPOGFT
 
-[Document8]
+[Document9]
 DocumentPath=..\28Pins\!Design Documentation\Templates\Schematic\28Pins_Project_V1I1 Project.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -179,7 +196,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=QNWYVDEJ
 
-[Document9]
+[Document10]
 DocumentPath=28Pins JobFile.OutJob
 AnnotationEnabled=1
 AnnotateStartValue=1
