@@ -1,0 +1,14 @@
+Project Outputs Generation Report
+---------------------------------
+Start Output Generation At 3:44:17 PM On 5/21/2021
+
+Output: Component reference gouped BOM
+Type  : BOM
+From  : Variant [5V/3V3] of Project [28Pins_Project_V1[1.PrjPcb]
+   Generated File[Component reference gouped BOM-28Pins_Project_V1[1(5V_3V3).xls]
+
+
+Files Generated   : 1
+Documents Printed : 0
+
+Finished Output Generation At 3:44:18 PM On 5/21/2021

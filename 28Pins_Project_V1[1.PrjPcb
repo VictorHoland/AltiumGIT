@@ -213,6 +213,23 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
+[Document11]
+DocumentPath=BOM\BOM\28Pins_Project_V1[1FIXED5V.BomDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
 [ProjectVariant1]
 UniqueID=7DE1B60C-AB56-438B-B6C9-078312D335F6
 Description=FIXED 5V
@@ -233,11 +250,11 @@ AllowFabrication=0
 ParameterCount=0
 VariationCount=6
 Variation1=Designator=Y1|UniqueId=\PKFVQGGA|Kind=2|AlternatePart=ABM7-10.000MHZ-D2Y-T|AltLibLink_LibIdentifierKind=Library Full Path|AltLibLink_LibraryIdentifier=C:\Users\Victor Holanda\Documents\28Pins_Project_V1]1\28Pins_Project_V1[1.SchLib|AltLibLink_SymbolReference= |AltLibLink_DesignItemID=ABM7-10.000MHZ-D2Y-T|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=28Pins_Project_V1[1.SchLib|AltLibLink_UseDBTableName=False|AltLibLink_DatabaseTableName= |AltLibLink_VaultGUID= |AltLibLink_ItemGUID= |AltLibLink_RevisionGUID= |AltLibLink_Footprint=ABM7_v1_1_BIG|AltLibLink_IsSameFootprint=True
-ParamVariation1=ParameterName=Case/Package|VariantValue=SMD/SMT
+ParamVariation1=ParameterName=Comment|VariantValue=ABM7-10.000MHZ-D2Y-T
 ParamDesignator1=Y1
-ParamVariation2=ParameterName=Category|VariantValue=Crystals
+ParamVariation2=ParameterName=Case/Package|VariantValue=SMD/SMT
 ParamDesignator2=Y1
-ParamVariation3=ParameterName=Comment|VariantValue=ABM7-10.000MHZ-D2Y-T
+ParamVariation3=ParameterName=Category|VariantValue=Crystals
 ParamDesignator3=Y1
 ParamVariation4=ParameterName=Component Kind|VariantValue=Standard
 ParamDesignator4=Y1
@@ -302,11 +319,11 @@ ParamDesignator33=Y1
 ParamVariation34=ParameterName=Supplier Part Number 1|VariantValue=535-9833-1-ND
 ParamDesignator34=Y1
 Variation2=Designator=Y2|UniqueId=\BXZFKHBF|Kind=2|AlternatePart=ABM7-8.000MHZ-D2Y-T|AltLibLink_LibIdentifierKind=Library Full Path|AltLibLink_LibraryIdentifier=C:\Users\Victor Holanda\Documents\28Pins_Project_V1]1\28Pins_Project_V1[1.SchLib|AltLibLink_SymbolReference= |AltLibLink_DesignItemID=ABM7-8.000MHZ-D2Y-T|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=28Pins_Project_V1[1.SchLib|AltLibLink_UseDBTableName=False|AltLibLink_DatabaseTableName= |AltLibLink_VaultGUID= |AltLibLink_ItemGUID= |AltLibLink_RevisionGUID= |AltLibLink_Footprint=ABM7_v1_1_BIG|AltLibLink_IsSameFootprint=True
-ParamVariation35=ParameterName=Case/Package|VariantValue=CSMD
+ParamVariation35=ParameterName=Comment|VariantValue=ABM7-8.000MHZ-D2Y-T
 ParamDesignator35=Y2
-ParamVariation36=ParameterName=Category|VariantValue=Crystals
+ParamVariation36=ParameterName=Case/Package|VariantValue=CSMD
 ParamDesignator36=Y2
-ParamVariation37=ParameterName=Comment|VariantValue=ABM7-8.000MHZ-D2Y-T
+ParamVariation37=ParameterName=Category|VariantValue=Crystals
 ParamDesignator37=Y2
 ParamVariation38=ParameterName=Component Kind|VariantValue=Standard
 ParamDesignator38=Y2
@@ -415,28 +432,124 @@ Variation6=Designator=R28|UniqueId=\AFHKEAFE|Kind=1|AlternatePart=
 ParamVariationCount=87
 
 [GeneratedDocument1]
+DocumentPath=BOM\NC Drill\28Pins_Project_V1[1_PCB.-RoundHoles.TXT
+DItemRevisionGUID=
+
+[GeneratedDocument2]
+DocumentPath=BOM\NC Drill\28Pins_Project_V1[1_PCB.-SlotHoles.TXT
+DItemRevisionGUID=
+
+[GeneratedDocument3]
+DocumentPath=BOM\NC Drill\28Pins_Project_V1[1_PCB..DRR
+DItemRevisionGUID=
+
+[GeneratedDocument4]
+DocumentPath=BOM\Gerber\28Pins_Project_V1[1_PCB..EXTREP
+DItemRevisionGUID=
+
+[GeneratedDocument5]
+DocumentPath=BOM\Gerber\28Pins_Project_V1[1_PCB..GBL
+DItemRevisionGUID=
+
+[GeneratedDocument6]
+DocumentPath=BOM\Gerber\28Pins_Project_V1[1_PCB..GBO
+DItemRevisionGUID=
+
+[GeneratedDocument7]
+DocumentPath=BOM\Gerber\28Pins_Project_V1[1_PCB..GBS
+DItemRevisionGUID=
+
+[GeneratedDocument8]
+DocumentPath=BOM\Gerber\28Pins_Project_V1[1_PCB..GM2
+DItemRevisionGUID=
+
+[GeneratedDocument9]
+DocumentPath=BOM\Gerber\28Pins_Project_V1[1_PCB..GM3
+DItemRevisionGUID=
+
+[GeneratedDocument10]
+DocumentPath=BOM\Gerber\28Pins_Project_V1[1_PCB..GM4
+DItemRevisionGUID=
+
+[GeneratedDocument11]
+DocumentPath=BOM\Gerber\28Pins_Project_V1[1_PCB..GM5
+DItemRevisionGUID=
+
+[GeneratedDocument12]
+DocumentPath=BOM\Gerber\28Pins_Project_V1[1_PCB..GTL
+DItemRevisionGUID=
+
+[GeneratedDocument13]
+DocumentPath=BOM\Gerber\28Pins_Project_V1[1_PCB..GTO
+DItemRevisionGUID=
+
+[GeneratedDocument14]
+DocumentPath=BOM\Gerber\28Pins_Project_V1[1_PCB..GTP
+DItemRevisionGUID=
+
+[GeneratedDocument15]
+DocumentPath=BOM\Gerber\28Pins_Project_V1[1_PCB..GTS
+DItemRevisionGUID=
+
+[GeneratedDocument16]
+DocumentPath=BOM\NC Drill\28Pins_Project_V1[1_PCB..LDP
+DItemRevisionGUID=
+
+[GeneratedDocument17]
+DocumentPath=BOM\Gerber\28Pins_Project_V1[1_PCB..REP
+DItemRevisionGUID=
+
+[GeneratedDocument18]
+DocumentPath=BOM\Gerber\28Pins_Project_V1[1_PCB..RUL
+DItemRevisionGUID=
+
+[GeneratedDocument19]
+DocumentPath=BOM\BOM\28Pins Component reference BOM-28Pins_Project_V1[1(5V_3V3).xls
+DItemRevisionGUID=
+
+[GeneratedDocument20]
+DocumentPath=BOM\BOM\28Pins Component reference BOM-28Pins_Project_V1[1(FIXED 5V).xls
+DItemRevisionGUID=
+
+[GeneratedDocument21]
+DocumentPath=BOM\BOM\Component reference gouped BOM-28Pins_Project_V1[1(5V_3V3).xls
+DItemRevisionGUID=
+
+[GeneratedDocument22]
+DocumentPath=BOM\BOM\Component reference gouped BOM-28Pins_Project_V1[1(FIXED 5V).xls
+DItemRevisionGUID=
+
+[GeneratedDocument23]
 DocumentPath=Project Outputs for 28Pins_Project_V1[1\Design Rule Check - 28Pins_Project_V1[1_PCB.html
 DItemRevisionGUID=
 
+[GeneratedDocument24]
+DocumentPath=BOM\Pick Place\Pick Place for 28Pins_Project_V1[1_PCB.(5V_3V3).txt
+DItemRevisionGUID=
+
+[GeneratedDocument25]
+DocumentPath=BOM\Pick Place\Pick Place for 28Pins_Project_V1[1_PCB.(FIXED 5V).txt
+DItemRevisionGUID=
+
 [Parameter1]
-Name=Company
-Value=(c) FEDEVEL Academy
+Name=VersionRevision
+Value=V1]1
 
 [Parameter2]
-Name=NotFited
-Value=NF
+Name=Title
+Value=28Pins
 
 [Parameter3]
 Name=Project
 Value=28Pins
 
 [Parameter4]
-Name=Title
-Value=28Pins
+Name=NotFited
+Value=NF
 
 [Parameter5]
-Name=VersionRevision
-Value=V1]1
+Name=Company
+Value=(c) FEDEVEL Academy
 
 [Configuration1]
 Name=Sources
@@ -447,6 +560,9 @@ Variant=[No Variations]
 OutputJobsCount=0
 ContentTypeGUID=CB6F2064-E317-11DF-B822-12313F0024A2
 ConfigurationType=Source
+
+[Generic_EDE]
+OutputDir=
 
 [OutputGroup1]
 Name=Netlist Outputs
